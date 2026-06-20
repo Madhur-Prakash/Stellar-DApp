@@ -179,4 +179,4 @@ The wallet "disconnect" persists across page reloads via `localStorage` — relo
 
 ## License
 
-MIT
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
