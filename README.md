@@ -55,15 +55,20 @@ All blockchain operations happen directly in the browser — the app calls Stell
 
 ### Wallet Connected State
 *(screenshot showing the green connected card with truncated address and Disconnect button)*
+<img width="923" height="922" alt="Screenshot 2026-06-20 165236" src="https://github.com/user-attachments/assets/6c7128f7-fe83-4cbd-8ae4-1640be89c84b" />
 
 ### Balance Displayed
 *(screenshot showing the XLM balance card with your testnet balance)*
+<img width="923" height="922" alt="Screenshot 2026-06-20 165236" src="https://github.com/user-attachments/assets/9d1aae3b-b1f9-402d-9fcb-40dda139b990" />
 
 ### Successful Testnet Transaction
 *(screenshot showing the green success panel with transaction hash)*
+<img width="732" height="938" alt="Screenshot 2026-06-20 165323" src="https://github.com/user-attachments/assets/6b8a0bfa-4745-41d8-bd03-184f224fe465" />
 
 ### Transaction Result Shown to User
 *(screenshot showing the "View on Stellar Expert →" link with the confirmed hash)*
+<img width="1716" height="716" alt="Screenshot 2026-06-20 165434" src="https://github.com/user-attachments/assets/aa855c5f-09ad-4322-954c-c117b78e596f" />
+
 
 ---
 
